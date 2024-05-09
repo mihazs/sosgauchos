@@ -46,6 +46,8 @@ Acreditamos que este sistema pode ser uma ferramenta valiosa para auxiliar no re
 
 Consulte o [README.md](README.md) para obter mais detalhes sobre o projeto, incluindo instruções de instalação, configuração e uso.
 
+[Discord](https://discord.gg/pBhts5sk3t)
+
 **Licença**
 
 Este projeto está licenciado sob a licença [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
